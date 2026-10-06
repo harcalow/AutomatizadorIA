@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "skills": {
+    "cucumber-best-practices": {
+      "source": "thebushidocollective/han",
+      "sourceType": "github",
+      "skillPath": "plugins/tools/cucumber/skills/cucumber-best-practices/SKILL.md",
+      "computedHash": "6678e974427c4dac2296d7be52b496fb3af9100125ca2ac5afa0296ac471894c"
+    },
+    "qa-manual-istqb": {
+      "source": "fugazi/test-automation-skills-agents",
+      "sourceType": "github",
+      "skillPath": "skills/qa-manual-istqb/SKILL.md",
+      "computedHash": "8d19daed856a18569c3fc4171037597d803dc5f067804462b817cbbf0452a2ce"
+    },
+    "selenium-cucumber-expert": {
+      "source": "jmr85/e2e-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/selenium-cucumber-expert/SKILL.md",
+      "computedHash": "024f6fc51d1ed82c9f5a78074db74244c48959a133cf22aefafdbc878b8254d4"
+    },
+    "webapp-selenium-testing": {
+      "source": "fugazi/test-automation-skills-agents",
+      "sourceType": "github",
+      "skillPath": "skills/webapp-selenium-testing/SKILL.md",
+      "computedHash": "cc20adb88c960b45f0ca79c40378b3599593ed2e64d31006429696f4cea2bc87"
+    }
+  }
+}

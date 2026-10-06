@@ -1,0 +1,11 @@
+.gradle/
+build/
+bin/
+.idea/
+*.iml
+.vscode/
+.playwright-mcp/
+.claude/settings.local.json
+
+# Evidencias por ejecución (capturas, ~12 MB c/u); se regeneran con ./gradlew test
+qa-artifacts/*/reportes/
